@@ -1,1 +1,2 @@
 # AppointmentBook
+This code is an appointment management system using object oriented programming. It includes an  Appointment class with common attributes and methods, which is extended by specific appointment types like MedicalAppointment and BusinessMeeting. The subclasses implement their own get_details method to display important information. The AppointmentBook class manages a list of appointments, allowing users to add, view, and remove them.
